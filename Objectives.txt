@@ -1,0 +1,9 @@
+Employee Production Dashboard
+
+Employees Average time vs Count
+Process vs Hours
+process wise each day production count
+KPI
+Gender wise filtering
+process wise production count percentage
+Day wise employee Production
